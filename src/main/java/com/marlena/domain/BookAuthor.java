@@ -7,5 +7,5 @@ import javax.persistence.Table;
 @Table(name = "books_authors")
 public class BookAuthor {
 
-   
+
 }
